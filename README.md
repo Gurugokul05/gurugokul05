@@ -1,4 +1,4 @@
-# A. Gurugokul
+# A.Gurugokul
 
 Full Stack Developer focused on building real-world applications.
 
@@ -20,6 +20,9 @@ Built and maintained internal tools for events and hackathons.
 ## Links
 
 LinkedIn: https://www.linkedin.com/in/gurugokull
+
 Portfolio: https://portfolio-swart-five-65.vercel.app/
+
 GitHub: https://github.com/Gurugokul05
+
 Email: [gurugokul05@gmail.com](mailto:gurugokul05@gmail.com)
