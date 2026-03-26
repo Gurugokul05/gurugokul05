@@ -57,11 +57,13 @@
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurugokul05\&show_icons=true\&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurugokul05\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurugokul05\&layout=compact\&theme=tokyonight)
 
 ## Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Gurugokul05\&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gurugokul05\&theme=tokyonight)
 
 ---
 
