@@ -5,6 +5,7 @@ Full Stack Developer focused on building real-world applications.
 ## Tech Stack
 
 React.js • JavaScript • HTML • CSS • Express.js
+
 Firebase • Firestore • Git • GitHub • Figma
 
 ## Projects
