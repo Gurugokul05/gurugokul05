@@ -1,29 +1,56 @@
-# A.Gurugokul
+# Hey, I'm Gurugokul 👋
 
-Full Stack Developer focused on building real-world applications.
+Full Stack Developer building real-world web apps — from idea to deployment.  
+Currently: Web Developer @ **Pixelit Club** | Open to internships & collabs.
 
-## Tech Stack
+---
 
-React.js • JavaScript • HTML • CSS • Express.js
+## 🛠 Tech Stack
 
-Firebase • Firestore • Git • GitHub • Figma
+**Frontend**
+`React.js` `JavaScript` `HTML` `CSS`
 
-## Projects
+**Backend & Database**
+`Express.js` `Firebase` `Firestore`
 
-* **Food Ordering App** — Authentication, real-time database, clean UI
-* **Hackathon Management System** — Problem selection, admin panel, live updates
+**Tools & Design**
+`Git` `GitHub` `Figma`
 
-## Experience
+---
 
-Web Developer — Pixelit Club
-Built and maintained internal tools for events and hackathons.
+## 🚀 Projects
 
-## Links
+### 🍔 Food Ordering App
+A full-stack food ordering platform with user authentication, real-time database sync, and a clean, intuitive UI.
+- **Stack:** React.js, Firebase, Firestore
+- Auth flow (login/signup/session persistence)
+- Real-time order tracking via Firestore listeners
 
-LinkedIn: https://www.linkedin.com/in/gurugokull
+### 🏆 Hackathon Management System
+An admin-first platform for managing college hackathons end-to-end.
+- Problem statement selection & assignment
+- Admin panel for participant management
+- Live status updates during events
 
-Portfolio: https://portfolio-swart-five-65.vercel.app/
+---
 
-GitHub: https://github.com/Gurugokul05
+## 💼 Experience
 
-Email: [gurugokul05@gmail.com](mailto:gurugokul05@gmail.com)
+**Web Developer — Pixelit Club** *(College Tech-Creative Club)*
+- Built and maintained internal tools powering events and hackathons
+- Handled frontend development, UI design, and deployment pipelines
+
+---
+
+## 📫 Let's Connect
+
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | [portfolio-swart-five-65.vercel.app](https://portfolio-swart-five-65.vercel.app/) |
+| 💼 LinkedIn | [linkedin.com/in/gurugokull](https://www.linkedin.com/in/gurugokull) |
+| 🐙 GitHub | [github.com/Gurugokul05](https://github.com/Gurugokul05) |
+| 📧 Email | [gurugokul05@gmail.com](mailto:gurugokul05@gmail.com) |
+
+---
+
+> *"Build it. Ship it. Improve it."*
