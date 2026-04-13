@@ -1,7 +1,7 @@
 # Hey, I'm Gurugokul 👋
 
 Full Stack Developer building real-world web apps — from idea to deployment.  
-Currently: Web Developer @ **Pixelit Club** | Open to internships & collabs.
+Currently: Intern - Web Developer @ **Vizhi XR Pvt Ltd** , Web Developer @ **Pixelit Club** | Open to internships & collabs.
 
 ---
 
