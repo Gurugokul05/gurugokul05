@@ -1,7 +1,7 @@
 # Hey, I'm Gurugokul 👋
 
 Full Stack Developer building real-world web apps — from idea to deployment.  
-Currently: Intern - Web Developer @ **Vizhi XR Pvt Ltd** , Web Developer @ **Pixelit Club** | Open to internships & collabs.
+Currently: President @ **Pixelit** | Open to internships & collabs.
 
 ---
 
@@ -20,12 +20,6 @@ Currently: Intern - Web Developer @ **Vizhi XR Pvt Ltd** , Web Developer @ **Pix
 
 ## 🚀 Projects
 
-### 🍔 Food Ordering App
-A full-stack food ordering platform with user authentication, real-time database sync, and a clean, intuitive UI.
-- **Stack:** React.js, Firebase, Firestore
-- Auth flow (login/signup/session persistence)
-- Real-time order tracking via Firestore listeners
-
 ### 🏆 Hackathon Management System
 An admin-first platform for managing college hackathons end-to-end.
 - Problem statement selection & assignment
@@ -36,7 +30,14 @@ An admin-first platform for managing college hackathons end-to-end.
 
 ## 💼 Experience
 
-**Web Developer — Pixelit Club** *(College Tech-Creative Club)*
+**Web Developer — VIZHI XR PVT LTD** *(College Tech-Creative Club)*
+- Developed and maintained responsive web applications, including the company landing page and internal team portal
+- Implemented new features and resolved bugs to improve application functionality, performance, and user experience
+- Collaborated with developers and team members to identify requirements and deliver efficient web solutions
+- Performed debugging, testing, and optimization to ensure stability and smooth application performance
+- Reduced Firebase Firestore document reads by ~70% by preventing redundant queries on repeated button clicks.
+
+**Web Developer — Pixelit Club**
 - Built and maintained internal tools powering events and hackathons
 - Handled frontend development, UI design, and deployment pipelines
 
