@@ -1,4 +1,4 @@
-# Hey, I'm Gurugokul 👋
+# Hey, I'm Gurugokul 
 
 Full Stack Developer building real-world web apps — from idea to deployment.  
 Currently: President @ **Pixelit** | Open to internships & collabs.
