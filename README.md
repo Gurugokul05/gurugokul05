@@ -30,7 +30,7 @@ An admin-first platform for managing college hackathons end-to-end.
 
 ## 💼 Experience
 
-**Web Developer — VIZHI XR PVT LTD** *(College Tech-Creative Club)*
+**Web Developer — VIZHI XR PVT LTD** 
 - Developed and maintained responsive web applications, including the company landing page and internal team portal
 - Implemented new features and resolved bugs to improve application functionality, performance, and user experience
 - Collaborated with developers and team members to identify requirements and deliver efficient web solutions
