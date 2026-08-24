@@ -47,7 +47,7 @@ An admin-first platform for managing college hackathons end-to-end.
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [portfolio-swart-five-65.vercel.app](https://gurugokul.vercel.app/) |
+| 🌐 Portfolio | [gurugokul.vercel.app](https://gurugokul.vercel.app/) |
 | 💼 LinkedIn | [linkedin.com/in/gurugokull](https://www.linkedin.com/in/gurugokull) |
 | 🐙 GitHub | [github.com/Gurugokul05](https://github.com/Gurugokul05) |
 | 📧 Email | [gurugokul05@gmail.com](mailto:gurugokul05@gmail.com) |
