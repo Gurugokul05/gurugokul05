@@ -107,15 +107,6 @@ A mobile platform for KLU students to discover college clubs and upcoming events
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gurugokul05&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurugokul05&layout=compact&theme=dark&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 | Platform     | Link                                                                 |
