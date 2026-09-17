@@ -12,7 +12,7 @@ Currently pursuing **B.Tech Information Technology** at Kalasalingam Academy of 
 
 ### Mobile Development
 
-`React Native` `Expo` `Android` `React Navigation` `AsyncStorage`
+`React Native`
 
 ### Frontend
 
@@ -28,7 +28,7 @@ Currently pursuing **B.Tech Information Technology** at Kalasalingam Academy of 
 
 ### Tools & Platforms
 
-`Git` `GitHub` `Cloudinary` `Figma` `pdf-lib` `AI Coding Agents`
+`Git` `GitHub` `Cloudinary` `Figma`  `AI Coding Agents`
 
 ---
 
