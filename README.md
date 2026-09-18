@@ -85,9 +85,11 @@ A mobile platform for KLU students to discover college clubs and upcoming events
 * Built a React + Vite admin panel for managing application metadata.
 * Added secure API validation and structured backend architecture.
 * Redirects students to official external platforms for event registrations and submissions.
-* Currently in development with a planned Google Play Store release.
+* Currently in development with a planned Google Play Store release .
+
 
 ---
+
 
 ## 💼 Experience
 
