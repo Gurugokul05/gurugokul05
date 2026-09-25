@@ -16,7 +16,7 @@ Currently pursuing **B.Tech Information Technology** at Kalasalingam Academy of 
 
 ### Frontend
 
-`React.js` `React 19` `JavaScript` `HTML` `CSS` `Vite`
+`React.js` `React 19` `JavaScript` `HTML` `CSS` `Vite` `tailwind css` 
 
 ### Backend & Database
 
