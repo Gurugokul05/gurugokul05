@@ -20,7 +20,7 @@ Currently pursuing **B.Tech Information Technology** at Kalasalingam Academy of 
 
 ### Backend & Database
 
-`Node.js` `Express.js` `MongoDB` `Firebase` `Firestore` `REST APIs` `JWT`
+`Node.js` `Express.js` `MongoDB` `Firebase` `REST APIs` 
 
 ### Languages
 
@@ -34,7 +34,7 @@ Currently pursuing **B.Tech Information Technology** at Kalasalingam Academy of 
 
 ## 🚀 Projects
 
-### 🛒 Roots — Authentic Local Products Marketplace
+### Roots — Authentic Local Products Marketplace
 
 **React Native · Expo · Node.js · Express.js · MongoDB · JWT · Cloudinary**
 
@@ -52,7 +52,7 @@ A full-stack Android marketplace designed around authentic local products, with 
 
 ---
 
-### 🏆 SANA — Hackathon Management Platform
+### SANA — Hackathon Management Platform
 
 **React 19 · Vite · Node.js · Express 5 · MongoDB · JWT · pdf-lib**
 
@@ -72,7 +72,7 @@ A multi-event hackathon management platform designed to handle the operational s
 
 ---
 
-### 📱 Seyal — College Clubs & Events Discovery App
+### Seyal — College Clubs & Events Discovery App
 
 **React Native · Expo · Node.js · Express.js · MongoDB**
 
@@ -91,7 +91,7 @@ A mobile platform for KLU students to discover college clubs and upcoming events
 ---
 
 
-## 💼 Experience
+## Experience
 
 ### Web Developer — Vizhi XR Pvt Ltd
 
