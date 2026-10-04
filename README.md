@@ -1,6 +1,6 @@
 # Hey, I'm Gurugokul
 
-**Aspiring Android / Mobile App Developer** building real-world applications from idea to deployment.
+**Aspiring Android / Mobile App Developer , Fullstack Developer** building real-world applications from idea to deployment.
 
 Currently pursuing **B.Tech Information Technology** at Kalasalingam Academy of Research and Education.
 
