@@ -113,7 +113,6 @@ A mobile platform for KLU students to discover college clubs and upcoming events
 
 <p>
   <img src="https://ghstats.dev/api/card?username=gurugokul05&hide_border=true&hide_title=true&border_radius=13.5&hide=stars" alt="GitHub stats" />
-  <img src="https://ghstats.dev/api/langs?username=gurugokul05" alt="Top languages" />
 </p>
 
 
