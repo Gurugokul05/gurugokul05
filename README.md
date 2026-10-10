@@ -109,6 +109,8 @@ A mobile platform for KLU students to discover college clubs and upcoming events
 
 ---
 
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=gurugokul05&days=30&width=320&height=80)
+
 ## 📫 Let's Connect
 
 | Platform     | Link                                                                 |
