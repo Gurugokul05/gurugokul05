@@ -32,7 +32,7 @@ Currently pursuing **B.Tech Information Technology** at Kalasalingam Academy of 
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### Roots — Authentic Local Products Marketplace
 
@@ -102,14 +102,22 @@ A mobile platform for KLU students to discover college clubs and upcoming events
 * Reduced **Firebase Firestore document reads by approximately 70%** by preventing redundant queries triggered by repeated button clicks.
 
 ### Web Developer — Pixelit Club
-
+ 
 * Built and maintained internal tools supporting college events and hackathons.
 * Worked across frontend development, UI implementation, and deployment.
 * Contributed to the development of the club's hackathon management infrastructure.
 
 ---
 
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=gurugokul05&days=30&width=320&height=80)
+## GitHub Stats
+
+<p>
+  <img src="https://ghstats.dev/api/card?username=gurugokul05&hide_border=true&hide_title=true&border_radius=13.5&hide=stars" alt="GitHub stats" />
+  <img src="https://ghstats.dev/api/langs?username=gurugokul05" alt="Top languages" />
+</p>
+
+
+---
 
 ## 📫 Let's Connect
 
