@@ -1,132 +1,83 @@
-# Hey, I'm Gurugokul
+# Hi, I'm Gurugokul 👋
 
-**Aspiring Android / Mobile App Developer , Fullstack Developer** building real-world applications from idea to deployment.
+**Full-stack & mobile developer who ships.** I take products from idea to deployed app — React Native on the front, Node/Express/MongoDB behind it.
 
-Currently pursuing **B.Tech Information Technology** at Kalasalingam Academy of Research and Education.
+B.Tech IT @ Kalasalingam Academy of Research and Education · Web Developer @ Pixelit Club · **Open to software engineering internships**
 
-**Web Developer @ Pixelit** | Building full-stack and mobile applications | Open to internships & collaborations.
+[![Portfolio](https://img.shields.io/badge/Portfolio-gurugokul.vercel.app-111?style=flat-square&logo=vercel)](https://gurugokul.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gurugokull-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gurugokull)
+[![Email](https://img.shields.io/badge/Email-gurugokul05@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gurugokul05@gmail.com)
+
+---
+
+## ⚡ Highlights
+
+- 🔻 **Cut Firestore reads by ~70%** at Vizhi XR by eliminating redundant queries from repeated clicks
+- 📱 **Published an Android marketplace app** (Roots) with buyer, seller and admin flows
+- 🏆 **Built the hackathon platform** (SANA) used to run college events at Pixelit, including bulk certificate generation
+- 🎓 CGPA **8.86** · B.Tech Information Technology
+
+---
+
+## 🚀 Projects
+
+### 🌿 Roots — Local Products Marketplace
+`React Native` `Expo` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
+
+Android marketplace for authentic local products, with separate buyer, seller and admin experiences. Live on APKPure.
+
+- End-to-end build: browsing, filters, cart, checkout, order tracking with status timelines
+- Seller tools for product uploads and analytics; Cloudinary for image hosting
+- Admin panel for seller verification and refund review
+- Diagnosed and fixed a JWT auth bug that was blocking checkout; ran full QA across all three roles
+
+### 🏁 SANA — Hackathon Management Platform
+`React 19` `Vite` `Express 5` `MongoDB` `JWT` `pdf-lib`
+
+Multi-event platform handling the operations of college hackathons. Built for Pixelit (private repo).
+
+- Multi-event architecture: isolated teams, problem statements, admins and data per event
+- Role-based access (Super Admin / Staff) with event-level permissions and audit logs
+- Bulk certificate generation with a visual PDF position editor, live preview and ZIP export
+- Live attendance with lock mechanism, sortable leaderboard, Excel exports
+- API hardening with Helmet, CORS and rate limiting
+
+### 🎯 Seyal — College Clubs & Events Discovery
+`React Native` `Expo` `Node.js` `Express` `MongoDB` `React + Vite`
+
+One app for students to discover active clubs and upcoming events. *In development, Play Store release planned.*
+
+- REST API with JWT auth, role-based access and request validation
+- React + Vite admin panel for managing app data
+- Hands registrations off to official external platforms
+
+---
+
+## 💼 Experience
+
+**Web Developer — Vizhi XR Pvt Ltd**
+- Built and maintained the company landing page and internal team portal
+- Reduced Firebase Firestore reads by ~70% by preventing redundant queries
+- Debugged, tested and optimized across multiple applications
+
+**Web Developer — Pixelit Club**
+- Built internal tools for college events and hackathons across frontend, UI and deployment
+- Core contributor to the club's hackathon management infrastructure (SANA)
 
 ---
 
 ## 🛠 Tech Stack
 
-### Mobile Development
+![Skills](https://skillicons.dev/icons?i=react,js,html,css,vite,tailwind,nodejs,express,mongodb,firebase,java,py,c,cpp,git,github,figma&perline=9)
 
-`React Native`
-
-### Frontend
-
-`React.js` `React 19` `JavaScript` `HTML` `CSS` `Vite` `tailwind css` 
-
-### Backend & Database
-
-`Node.js` `Express.js` `MongoDB` `Firebase` `REST APIs` 
-
-### Languages
-
-`Java` `JavaScript` `Python` `C` `C++`
-
-### Tools & Platforms
-
-`Git` `GitHub` `Cloudinary` `Figma`  `AI Coding Agents`
+**Mobile:** React Native, Expo · **Web:** React, Vite, Tailwind · **Backend:** Node, Express, REST, JWT · **Data:** MongoDB, Firebase · **Languages:** JavaScript, Java, Python, C, C++ · **Workflow:** Git, Figma, AI coding agents
 
 ---
 
-## Projects
+## 📊 GitHub
 
-### Roots — Authentic Local Products Marketplace
-
-**React Native · Expo · Node.js · Express.js · MongoDB · JWT · Cloudinary**
-
-A full-stack Android marketplace designed around authentic local products, with separate experiences for buyers, sellers, and administrators.
-
-* Built the complete marketplace application from frontend to backend.
-* Implemented product browsing, filtering, cart, checkout, and order tracking.
-* Added order status timelines and mock Razorpay payment integration.
-* Built seller tools for product uploads and analytics.
-* Integrated **Cloudinary** for product image hosting.
-* Developed an admin panel for seller verification and refund review.
-* Diagnosed and fixed a critical JWT authentication issue that was blocking checkout.
-* Performed end-to-end QA across buyer, seller, and admin workflows.
-* Published and distributed the Android application through APKPure.
+<img src="https://ghstats.dev/api/card?username=gurugokul05&hide_border=true&hide_title=true&border_radius=13.5&hide=stars" alt="GitHub stats" />
 
 ---
 
-### SANA — Hackathon Management Platform
-
-**React 19 · Vite · Node.js · Express 5 · MongoDB · JWT · pdf-lib**
-
-A multi-event hackathon management platform designed to handle the operational side of college hackathons.
-
-* Built a multi-event architecture where each event has isolated teams, problem statements, admins, and data.
-* Implemented **JWT authentication** and role-based access control for Super Admin and Staff.
-* Added event-level granular permissions and admin audit logging.
-* Built a bulk certificate generation system with a visual PDF position editor and live preview.
-* Generated individual certificates and ZIP downloads for participants.
-* Implemented real-time attendance tracking with a lock mechanism.
-* Added a live sortable leaderboard for evaluation.
-* Added Excel export for attendance and team data.
-* Hardened APIs using **Helmet, CORS, and rate limiting**.
-
-> SANA is developed for Pixelit and is not publicly open-sourced.
-
----
-
-### Seyal — College Clubs & Events Discovery App
-
-**React Native · Expo · Node.js · Express.js · MongoDB**
-
-A mobile platform for KLU students to discover college clubs and upcoming events from a centralized application.
-
-* Designed the application around centralized discovery of active clubs and upcoming events.
-* Built a **React Native + Expo** mobile application.
-* Developed a Node.js/Express REST API with MongoDB/Mongoose persistence.
-* Implemented JWT authentication and role-based access control.
-* Built a React + Vite admin panel for managing application metadata.
-* Added secure API validation and structured backend architecture.
-* Redirects students to official external platforms for event registrations and submissions.
-* Currently in development with a planned Google Play Store release .
-
-
----
-
-
-## Experience
-
-### Web Developer — Vizhi XR Pvt Ltd
-
-* Developed and maintained responsive web applications, including the company landing page and internal team portal.
-* Implemented new features and resolved bugs to improve application functionality and reliability.
-* Collaborated with developers to understand requirements and deliver practical web solutions.
-* Performed debugging, testing, and optimization across applications.
-* Reduced **Firebase Firestore document reads by approximately 70%** by preventing redundant queries triggered by repeated button clicks.
-
-### Web Developer — Pixelit Club
- 
-* Built and maintained internal tools supporting college events and hackathons.
-* Worked across frontend development, UI implementation, and deployment.
-* Contributed to the development of the club's hackathon management infrastructure.
-
----
-
-## GitHub Stats
-
-<p>
-  <img src="https://ghstats.dev/api/card?username=gurugokul05&hide_border=true&hide_title=true&border_radius=13.5&hide=stars" alt="GitHub stats" />
-</p>
-
-
----
-
-## 📫 Let's Connect
-
-| Platform     | Link                                                                 |
-| ------------ | -------------------------------------------------------------------- |
-| 🌐 Portfolio | [gurugokul.vercel.app](https://gurugokul.vercel.app/)                |
-| 💼 LinkedIn  | [linkedin.com/in/gurugokull](https://www.linkedin.com/in/gurugokull) |
-| 🐙 GitHub    | [github.com/Gurugokul05](https://github.com/Gurugokul05)             |
-| 📧 Email     | [gurugokul05@gmail.com](mailto:gurugokul05@gmail.com)                |
-
----
-
-> **"Build it. Ship it. Improve it."**
+> **Build it. Ship it. Improve it.**
