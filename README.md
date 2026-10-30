@@ -10,7 +10,7 @@ B.Tech IT @ Kalasalingam Academy of Research and Education · Web Developer @ Pi
 
 ---
 
-## ⚡ Highlights
+## Highlights
 
 - 🔻 **Cut Firestore reads by ~70%** at Vizhi XR by eliminating redundant queries from repeated clicks
 - 📱 **Published an Android marketplace app** (Roots) with buyer, seller and admin flows
