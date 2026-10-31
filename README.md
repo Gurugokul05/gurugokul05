@@ -19,7 +19,7 @@ B.Tech IT @ Kalasalingam Academy of Research and Education · Web Developer @ Pi
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🌿 Roots — Local Products Marketplace
 `React Native` `Expo` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
