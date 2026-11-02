@@ -21,7 +21,7 @@ B.Tech IT @ Kalasalingam Academy of Research and Education · Web Developer @ Pi
 
 ## Projects
 
-### 🌿 Roots — Local Products Marketplace
+### Roots — Local Products Marketplace
 `React Native` `Expo` `Node.js` `Express` `MongoDB` `JWT` `Cloudinary`
 
 Android marketplace for authentic local products, with separate buyer, seller and admin experiences. Live on APKPure.
